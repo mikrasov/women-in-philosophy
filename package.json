@@ -19,7 +19,7 @@
     "gatsby-plugin-sitemap": "^2.x",
     "gatsby-source-filesystem": "^2.3.x",
     "gatsby-transformer-sharp": "^2.5.x",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "react": "^16.13.x",
     "react-bootstrap": "^1.0.1",
     "react-chartjs-2": "^2.11.1",
